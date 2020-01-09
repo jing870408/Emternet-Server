@@ -1,0 +1,2 @@
+#SDServer ==> Emternet的伺服器，之前是架在 Azure App Server
+#SDMLNET ==> 使用 ml.net 套件的機器學習模型
