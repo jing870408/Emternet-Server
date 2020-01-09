@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDMLNET", "SDMLNET\SDMLNET.csproj", "{4CEBE6E5-8AAD-48C9-945C-9CB04CA8F987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CEBE6E5-8AAD-48C9-945C-9CB04CA8F987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEBE6E5-8AAD-48C9-945C-9CB04CA8F987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEBE6E5-8AAD-48C9-945C-9CB04CA8F987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEBE6E5-8AAD-48C9-945C-9CB04CA8F987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D56AFE96-C514-4886-A2C1-DB896FBFC3EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\VS\SDMLNET\SDMLNET\bin\Debug\netcoreapp2.2\SDMLNET.deps.json
+D:\VS\SDMLNET\SDMLNET\bin\Debug\netcoreapp2.2\SDMLNET.runtimeconfig.json
+D:\VS\SDMLNET\SDMLNET\bin\Debug\netcoreapp2.2\SDMLNET.runtimeconfig.dev.json
+D:\VS\SDMLNET\SDMLNET\bin\Debug\netcoreapp2.2\SDMLNET.dll
+D:\VS\SDMLNET\SDMLNET\obj\Debug\netcoreapp2.2\SDMLNET.csproj.CoreCompileInputs.cache
+D:\VS\SDMLNET\SDMLNET\obj\Debug\netcoreapp2.2\SDMLNET.AssemblyInfoInputs.cache
+D:\VS\SDMLNET\SDMLNET\obj\Debug\netcoreapp2.2\SDMLNET.AssemblyInfo.cs
+D:\VS\SDMLNET\SDMLNET\bin\Debug\netcoreapp2.2\SDMLNET.pdb
+D:\VS\SDMLNET\SDMLNET\obj\Debug\netcoreapp2.2\SDMLNET.dll
+D:\VS\SDMLNET\SDMLNET\obj\Debug\netcoreapp2.2\SDMLNET.pdb
+D:\VS\SDMLNET\SDMLNET\obj\Debug\netcoreapp2.2\SDMLNET.csprojAssemblyReference.cache
