@@ -1,0 +1,15 @@
+D:\VS\SDServer\SDServer\bin\Release\netcoreapp2.2\SDServer.deps.json
+D:\VS\SDServer\SDServer\bin\Release\netcoreapp2.2\SDServer.runtimeconfig.json
+D:\VS\SDServer\SDServer\bin\Release\netcoreapp2.2\SDServer.runtimeconfig.dev.json
+D:\VS\SDServer\SDServer\bin\Release\netcoreapp2.2\SDServer.dll
+D:\VS\SDServer\SDServer\bin\Release\netcoreapp2.2\SDServer.pdb
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.csprojAssemblyReference.cache
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.csproj.CoreCompileInputs.cache
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.RazorAssemblyInfo.cache
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.RazorAssemblyInfo.cs
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.AssemblyInfoInputs.cache
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.AssemblyInfo.cs
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.RazorTargetAssemblyInfo.cache
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.dll
+D:\VS\SDServer\SDServer\obj\Release\netcoreapp2.2\SDServer.pdb
+D:\VS\SDServer\SDServer\bin\Release\netcoreapp2.2\MLModels\model.zip
